@@ -1,0 +1,12 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    background-color: rgb(114, 92, 173);
+    color: whitesmoke;
+}
+section{
+    border: 3px solid black;
+    margin: 10px;
+    padding: 5px;
+}
